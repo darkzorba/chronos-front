@@ -97,12 +97,12 @@ export default function Onboarding() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center space-x-3 mb-6">
             <img 
-              src="/lovable-uploads/830712f0-3341-42ec-82ee-d8276850ce9d.png" 
+              src="/assets/logo_chronos.png" 
               alt="Chronos Logo" 
               className="h-12 w-12"
             />
             <img 
-              src="/lovable-uploads/382b0d96-2c8a-407b-a3c5-86c409e48bc6.png" 
+              src="/assets/logo_chronos_text.png" 
               alt="Chronos" 
               className="h-8"
             />

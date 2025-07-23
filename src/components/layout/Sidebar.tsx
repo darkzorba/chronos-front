@@ -60,12 +60,12 @@ export function Sidebar() {
         {!collapsed && (
           <div className="flex items-center space-x-3">
             <img 
-              src="/lovable-uploads/830712f0-3341-42ec-82ee-d8276850ce9d.png" 
+              src="/assets/logo_chronos.png" 
               alt="Chronos Logo" 
               className="h-8 w-8"
             />
             <img 
-              src="/lovable-uploads/382b0d96-2c8a-407b-a3c5-86c409e48bc6.png" 
+              src="/assets/logo_chronos_text.png" 
               alt="Chronos" 
               className="h-6"
             />
